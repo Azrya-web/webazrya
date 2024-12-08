@@ -1,0 +1,31 @@
+* {
+  margin: 0 ;
+  padding: 0;
+}
+.foto {
+  display: flex;
+  
+}
+
+.foto1 {
+  width: 180px;
+  margin: 5px;
+}
+
+.ul-navbarf {
+  background-color: #333;
+  height: 5vh;
+  display: flex;
+  justify-content: left;
+  align-items:center;
+  margin-left: 0px;
+}
+
+.li-navbar {
+  color: #fff;
+  margin: 0px;
+  padding: 10px 15px 10px 15px;
+  list-style-type: none;
+  background-color: mediumaquamarine;
+  border-radius: 15px;
+}
